@@ -28,6 +28,9 @@ This project focuses on Data Modeling in Power BI using a Star Schema design. Th
 - Configured One-to-Many relationships
 - Created inactive relationship for ReturnDateKey
 
+Star Schema Design
+![StarSchema](Star Schema.png)
+
 ### Hierarchies Created
 #### Date Hierarchy
 Year > Quarter > Month > Date
