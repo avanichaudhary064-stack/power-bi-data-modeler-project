@@ -29,7 +29,7 @@ This project focuses on Data Modeling in Power BI using a Star Schema design. Th
 - Created inactive relationship for ReturnDateKey
 
 Star Schema Design
-![StarSchema](Star Schema.png)
+![StarSchemaDesign](Star__Schema.png)
 
 ### Hierarchies Created
 #### Date Hierarchy
@@ -46,6 +46,9 @@ Verified relationships using Matrix visuals:
 - Revenue by Product Category and Region
 - Return Reasons by Fiscal Year
 - Revenue by Customer Segment
+
+Matrix Validation
+![Matrix Validation](Matrix_Validation.png)
 
 ## Tools Used
 - Power BI Desktop
